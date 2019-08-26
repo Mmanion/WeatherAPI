@@ -41,8 +41,8 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
         
         print(Realm.Configuration.defaultConfiguration.fileURL!)
         
-        navigationController?.navigationBar.barTintColor = UIColor(red: 132/255.0, green: 161/255.0, blue: 190/255.0, alpha: 1.0)
-        
+//       
+//        
     }
     
     // TableView
